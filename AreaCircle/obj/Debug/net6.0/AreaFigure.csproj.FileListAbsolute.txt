@@ -1,0 +1,12 @@
+C:\Users\wsr\source\repos\CalculateSquare\AreaCircle\bin\Debug\net6.0\AreaFigure.deps.json
+C:\Users\wsr\source\repos\CalculateSquare\AreaCircle\bin\Debug\net6.0\AreaFigure.dll
+C:\Users\wsr\source\repos\CalculateSquare\AreaCircle\bin\Debug\net6.0\ref\AreaFigure.dll
+C:\Users\wsr\source\repos\CalculateSquare\AreaCircle\bin\Debug\net6.0\AreaFigure.pdb
+C:\Users\wsr\source\repos\CalculateSquare\AreaCircle\obj\Debug\net6.0\AreaFigure.csproj.AssemblyReference.cache
+C:\Users\wsr\source\repos\CalculateSquare\AreaCircle\obj\Debug\net6.0\AreaFigure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wsr\source\repos\CalculateSquare\AreaCircle\obj\Debug\net6.0\AreaFigure.AssemblyInfoInputs.cache
+C:\Users\wsr\source\repos\CalculateSquare\AreaCircle\obj\Debug\net6.0\AreaFigure.AssemblyInfo.cs
+C:\Users\wsr\source\repos\CalculateSquare\AreaCircle\obj\Debug\net6.0\AreaFigure.csproj.CoreCompileInputs.cache
+C:\Users\wsr\source\repos\CalculateSquare\AreaCircle\obj\Debug\net6.0\AreaFigure.dll
+C:\Users\wsr\source\repos\CalculateSquare\AreaCircle\obj\Debug\net6.0\ref\AreaFigure.dll
+C:\Users\wsr\source\repos\CalculateSquare\AreaCircle\obj\Debug\net6.0\AreaFigure.pdb

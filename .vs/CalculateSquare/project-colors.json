@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "beeac322-de7c-45ea-9faf-6b8096bdb891": {
+      "ProjectGuid": "beeac322-de7c-45ea-9faf-6b8096bdb891",
+      "DisplayName": "CalculateSquare",
+      "ColorIndex": 0
+    },
+    "eca3ca3b-ff1f-44dd-8751-0d11e37c3dac": {
+      "ProjectGuid": "eca3ca3b-ff1f-44dd-8751-0d11e37c3dac",
+      "DisplayName": "AreaFigure",
+      "ColorIndex": 1
+    },
+    "392be92c-e8f6-4094-b5f1-cf78e7c8c613": {
+      "ProjectGuid": "392be92c-e8f6-4094-b5f1-cf78e7c8c613",
+      "DisplayName": "UnitTe2354st",
+      "ColorIndex": 2
+    },
+    "7d2812fb-dc59-4c08-882f-d8d3f180c3ce": {
+      "ProjectGuid": "7d2812fb-dc59-4c08-882f-d8d3f180c3ce",
+      "DisplayName": "UnitTests",
+      "ColorIndex": 3
+    },
+    "849fa844-b3f1-45e7-8047-a23eb1278dce": {
+      "ProjectGuid": "849fa844-b3f1-45e7-8047-a23eb1278dce",
+      "DisplayName": "UnitTestFigure",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
