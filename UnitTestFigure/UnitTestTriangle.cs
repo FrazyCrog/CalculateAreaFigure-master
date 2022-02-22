@@ -50,8 +50,36 @@ namespace UnitTestFigure
         public void Triangle_test4()
         {
             // arrange
-            Triangle circle = new Triangle(20, 21, 29);
+            Triangle circle = new Triangle(5, 4, 3);
             TypeTriangle correctResult = TypeTriangle.rightTriangle;
+
+            //act
+            TypeTriangle result = circle.getTypeTriangle();
+
+            //assert
+            Assert.AreEqual(correctResult, result);
+        }
+
+        [Test]
+        public void Triangle_test5()
+        {
+            // arrange
+            Triangle circle = new Triangle(-4, 16, 0);
+            TypeTriangle correctResult = TypeTriangle.notTriangle;
+
+            //act
+            TypeTriangle result = circle.getTypeTriangle();
+
+            //assert
+            Assert.AreEqual(correctResult, result);
+        }
+
+        [Test]
+        public void Triangle_test6()
+        {
+            // arrange
+            Triangle circle = new Triangle(5.1, 4.1, 3.1);
+            TypeTriangle correctResult = TypeTriangle.versatileTriangle;
 
             //act
             TypeTriangle result = circle.getTypeTriangle();

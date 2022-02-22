@@ -33,16 +33,13 @@
 
         public TypeTriangle getTypeTriangle()
         {
-            if ((sideA + sideB < sideC) && (sideA + sideC < sideB) && (sideB + sideC < sideA)) // существует ли треугольник?
+            if ((sideA + sideB < sideC) || (sideA + sideC < sideB) || (sideB + sideC < sideA)) // существует ли треугольник?
             {
                 return TypeTriangle.notTriangle;
             }
 
-
-            double c = Math.Pow(sideA, 2) + Math.Pow(sideB, 2);
-            if (Math.Pow(sideC, 2) == c)
-            {
-                return TypeTriangle.rightTriangle;  // прямоугольный треугольник
+            if(sideA == Math.Sqrt(Math.Pow(sideB, 2) + Math.Pow(sideC, 2)) || sideB == Math.Sqrt(Math.Pow(sideA, 2) + Math.Pow(sideC, 2)) ||sideC == Math.Sqrt(Math.Pow(sideA, 2) + Math.Pow(sideB, 2))){
+                return TypeTriangle.rightTriangle;
             }
 
             if ((sideA == sideB && sideB != sideC) || (sideA == sideC && sideC != sideB) || (sideB == sideC && sideC != sideA))

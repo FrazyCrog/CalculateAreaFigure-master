@@ -6,6 +6,10 @@
 
         public Circle(double _radius)
         {
+            if(_radius < 0)
+            {
+                _radius = 0;
+            }
             radius = _radius;
         }
 
