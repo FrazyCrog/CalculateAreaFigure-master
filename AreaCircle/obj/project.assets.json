@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wsr\\source\\repos\\CalculateSquare\\AreaCircle\\AreaFigure.csproj",
+      "projectUniqueName": "D:\\GitHub\\GitHub\\AreaCircle\\AreaFigure.csproj",
       "projectName": "AreaFigure",
-      "projectPath": "C:\\Users\\wsr\\source\\repos\\CalculateSquare\\AreaCircle\\AreaFigure.csproj",
+      "projectPath": "D:\\GitHub\\GitHub\\AreaCircle\\AreaFigure.csproj",
       "packagesPath": "C:\\Users\\wsr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wsr\\source\\repos\\CalculateSquare\\AreaCircle\\obj\\",
+      "outputPath": "D:\\GitHub\\GitHub\\AreaCircle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

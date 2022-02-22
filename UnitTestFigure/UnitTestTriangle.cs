@@ -1,6 +1,7 @@
 ﻿using AreaFigure;
 using NUnit.Framework;
 using System;
+using static AreaFigure.Triangle;
 
 namespace UnitTestFigure
 {
@@ -41,6 +42,19 @@ namespace UnitTestFigure
 
             //act
             double result = Math.Round(circle.Area, 2);
+
+            //assert
+            Assert.AreEqual(correctResult, result);
+        }
+        [Test]
+        public void Triangle_test4()
+        {
+            // arrange
+            Triangle circle = new Triangle(20, 21, 29);
+            TypeTriangle correctResult = TypeTriangle.rightTriangle;
+
+            //act
+            TypeTriangle result = circle.getTypeTriangle();
 
             //assert
             Assert.AreEqual(correctResult, result);

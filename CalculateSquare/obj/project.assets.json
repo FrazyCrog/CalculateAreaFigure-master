@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wsr\\source\\repos\\CalculateSquare\\CalculateSquare\\CalculateSquare.csproj",
+      "projectUniqueName": "D:\\GitHub\\GitHub\\CalculateSquare\\CalculateSquare.csproj",
       "projectName": "CalculateSquare",
-      "projectPath": "C:\\Users\\wsr\\source\\repos\\CalculateSquare\\CalculateSquare\\CalculateSquare.csproj",
+      "projectPath": "D:\\GitHub\\GitHub\\CalculateSquare\\CalculateSquare.csproj",
       "packagesPath": "C:\\Users\\wsr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wsr\\source\\repos\\CalculateSquare\\CalculateSquare\\obj\\",
+      "outputPath": "D:\\GitHub\\GitHub\\CalculateSquare\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\wsr\\source\\repos\\CalculateSquare\\AreaCircle\\AreaFigure.csproj": {
-              "projectPath": "C:\\Users\\wsr\\source\\repos\\CalculateSquare\\AreaCircle\\AreaFigure.csproj"
+            "D:\\GitHub\\GitHub\\AreaCircle\\AreaFigure.csproj": {
+              "projectPath": "D:\\GitHub\\GitHub\\AreaCircle\\AreaFigure.csproj"
             }
           }
         }

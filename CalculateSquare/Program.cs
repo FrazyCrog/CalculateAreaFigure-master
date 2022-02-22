@@ -12,7 +12,7 @@ int b = int.Parse(Console.ReadLine());
 int c = int.Parse(Console.ReadLine());
 Triangle triangle = new Triangle(a, b, c);
 
-if(triangle.getTypeTriangle() == Triangle.typeTriangle.notTriangle)
+if(triangle.getTypeTriangle() == Triangle.TypeTriangle.notTriangle)
 {
     Console.WriteLine("Это не треугольник!");
 }

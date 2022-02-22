@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SGZ6r6QlGTuem+EB8nzut8POqaGBS00q2j7Ak5i9VEARTN2rJy/+K4OMQHO/HHrx73tVFF4qiBagypDvLUFGKA==",
+  "dgSpecHash": "cfuXVsDmKWsHth4JaPwCDqBNe8H16MxTE7ChNMdp4DW0S90kfTGpAk09HLGoFf/RUNUwxA5GbejTz0rAsJhjXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wsr\\source\\repos\\CalculateSquare\\UnitTestFigure\\UnitTestFigure.csproj",
+  "projectFilePath": "D:\\GitHub\\GitHub\\UnitTestFigure\\UnitTestFigure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wsr\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\wsr\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",

@@ -10,3 +10,15 @@ C:\Users\wsr\source\repos\CalculateSquare\AreaCircle\obj\Debug\net6.0\AreaFigure
 C:\Users\wsr\source\repos\CalculateSquare\AreaCircle\obj\Debug\net6.0\AreaFigure.dll
 C:\Users\wsr\source\repos\CalculateSquare\AreaCircle\obj\Debug\net6.0\ref\AreaFigure.dll
 C:\Users\wsr\source\repos\CalculateSquare\AreaCircle\obj\Debug\net6.0\AreaFigure.pdb
+D:\GitHub\GitHub\AreaCircle\bin\Debug\net6.0\AreaFigure.deps.json
+D:\GitHub\GitHub\AreaCircle\bin\Debug\net6.0\AreaFigure.dll
+D:\GitHub\GitHub\AreaCircle\bin\Debug\net6.0\ref\AreaFigure.dll
+D:\GitHub\GitHub\AreaCircle\bin\Debug\net6.0\AreaFigure.pdb
+D:\GitHub\GitHub\AreaCircle\obj\Debug\net6.0\AreaFigure.csproj.AssemblyReference.cache
+D:\GitHub\GitHub\AreaCircle\obj\Debug\net6.0\AreaFigure.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\GitHub\AreaCircle\obj\Debug\net6.0\AreaFigure.AssemblyInfoInputs.cache
+D:\GitHub\GitHub\AreaCircle\obj\Debug\net6.0\AreaFigure.AssemblyInfo.cs
+D:\GitHub\GitHub\AreaCircle\obj\Debug\net6.0\AreaFigure.csproj.CoreCompileInputs.cache
+D:\GitHub\GitHub\AreaCircle\obj\Debug\net6.0\AreaFigure.dll
+D:\GitHub\GitHub\AreaCircle\obj\Debug\net6.0\ref\AreaFigure.dll
+D:\GitHub\GitHub\AreaCircle\obj\Debug\net6.0\AreaFigure.pdb

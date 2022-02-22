@@ -5,7 +5,7 @@
         private double sideA, sideB, sideC;
 
 
-        public enum typeTriangle
+        public enum TypeTriangle
         {
             rightTriangle, // прямоугольный треугольник
             equilateralTriangle, // равносторонний треугольник
@@ -31,32 +31,32 @@
         }
 
 
-        public typeTriangle getTypeTriangle()
+        public TypeTriangle getTypeTriangle()
         {
             if ((sideA + sideB < sideC) && (sideA + sideC < sideB) && (sideB + sideC < sideA)) // существует ли треугольник?
             {
-                return typeTriangle.notTriangle;
+                return TypeTriangle.notTriangle;
             }
 
 
             double c = Math.Pow(sideA, 2) + Math.Pow(sideB, 2);
             if (Math.Pow(sideC, 2) == c)
             {
-                return typeTriangle.rightTriangle;  // прямоугольный треугольник
+                return TypeTriangle.rightTriangle;  // прямоугольный треугольник
             }
 
             if ((sideA == sideB && sideB != sideC) || (sideA == sideC && sideC != sideB) || (sideB == sideC && sideC != sideA))
             {
-                return typeTriangle.isoscelesTriangle; // равнобедренный треугольник
+                return TypeTriangle.isoscelesTriangle; // равнобедренный треугольник
             }
 
             if (sideA == sideB && sideB == sideC && sideA == sideC)
             {
-                return typeTriangle.equilateralTriangle; // равностороний
+                return TypeTriangle.equilateralTriangle; // равностороний
             }
             else
             {
-                return typeTriangle.versatileTriangle; // разносторонний треугольник
+                return TypeTriangle.versatileTriangle; // разносторонний треугольник
             }
         }
     }
