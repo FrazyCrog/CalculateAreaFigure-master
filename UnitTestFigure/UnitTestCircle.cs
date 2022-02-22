@@ -15,11 +15,7 @@ namespace UnitTestFigure
             double correctResult = 706.858;
 
             //act
-            double result = Math.Round(circle.Area, 3
-                
-                
-                
-                );
+            double result = Math.Round(circle.Area, 3);
 
             //assert
             Assert.AreEqual(correctResult, result);
