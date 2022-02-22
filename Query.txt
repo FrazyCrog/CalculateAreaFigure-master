@@ -37,5 +37,5 @@ Insert Into ProductCategories VALUES(5,4)
 
 -- Select
 Select TitleProduct, TitleCategory From Product
-Full Join ProductCategories On ProductCategories.id_product = Product.ID_Product
-Full Join Categories On Categories.ID_Categories = ProductCategories.id_category
+Left Join ProductCategories On ProductCategories.id_product = Product.ID_Product
+Left Join Categories On Categories.ID_Categories = ProductCategories.id_category
